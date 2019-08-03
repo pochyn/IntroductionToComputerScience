@@ -1,3 +1,6 @@
 # IntroductionToComputerScience
 
-Assignments and some labs for CSC148 in University of Toronto (UofT). I used started codes, provided by course instructors, as well as my own code to finish assignments and labs. Assignments include simplified uber-esque program and differen puzzle-style programes.
+Assignments for one of the courses of University of Toronto (UofT). I used starter codes, provided by course instructors, as well as my code to finish assignments.  
+
+-- RiderDrives - uberesque app, where my code was suppose to calculate manhatten distance and drivers availability
+-- Puzzles - basic sudoku, peg solitaire, mn puzzle games
